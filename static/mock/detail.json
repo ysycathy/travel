@@ -3,8 +3,7 @@
   "data": {
     "sightName": "故宫(AAAAA级景区)",
     "bannerImg": "https://dimg18.c-ctrip.com/images/100o0m000000dijheDCE3_C_350_230.jpg",
-    "gallaryImgs": ["https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1535727177648&di=9d2706fe61836aadeed20a4feb647e57&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F011e6455449df70000019ae9c80312.jpg%401280w_1l_2o_100sh.jpg", "http://cdn.k618img.cn/news.k618.cn/society/201711/W020171129720358176577.png",
-      "http://img01.uddtrip.com/ueditor/20160310/1457592550409250.jpg", "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1535727138521&di=47f2615e83d31f963ef87f3e9e585ec1&imgtype=0&src=http%3A%2F%2Fsociety.eastday.com%2Fimages%2Fthumbnailimg%2Fmonth_1602%2F201602021440465287.jpg"],
+    "gallaryImgs": ["https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1535727177648&di=9d2706fe61836aadeed20a4feb647e57&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F011e6455449df70000019ae9c80312.jpg%401280w_1l_2o_100sh.jpg", "http://img01.uddtrip.com/ueditor/20160310/1457592550409250.jpg", "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1535727138521&di=47f2615e83d31f963ef87f3e9e585ec1&imgtype=0&src=http%3A%2F%2Fsociety.eastday.com%2Fimages%2Fthumbnailimg%2Fmonth_1602%2F201602021440465287.jpg"],
     "categoryList": [{
       "title": "成人套票",
       "children": [{
